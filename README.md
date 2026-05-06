@@ -1,8 +1,13 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Momoru2002&color=blueviolet)
 ## Hi there 👋
+![Snake animation](https://github.com/Momoru2002/Momoru2002/blob/output/github-contribution-grid-snake.svg)
 # 👋 Hi, I'm Momoru2002
 
 🚀 Web Developer | Future Builder | Data Analis
-
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
 
 ---
 
@@ -26,8 +31,6 @@
 ---
 
 ## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=radical&cache_seconds=1800)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
@@ -38,10 +41,12 @@
 ## 🌌 Quote
 "Build something crazy every day."
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momoru2002&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momoru2002&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Momoru2002&theme=tokyonight&hide_border=true)
 <!--
 **Momoru2002/Momoru2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
