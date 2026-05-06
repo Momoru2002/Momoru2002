@@ -8,10 +8,8 @@
 
 --
 ## 🔥 Skills
-- ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-
-
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge) ![Pyhton](https://img.shields.io/badge/python-yellow?style=for-the-badge) 
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge) ![SQL](https://img.shields.io/badge/sql-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge) ![Pyhton](https://img.shields.io/badge/python-yellow?style=for-the-badge) ![Kotlin](https://img.shields.io/badge/kotlin-grey?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-grenn?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
