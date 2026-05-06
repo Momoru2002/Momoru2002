@@ -17,11 +17,11 @@
 ![C++](https://img.shields.io/badge/C++-red?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge)
-- UI Design
-- Git & GitHub
-- Google Colab
-- Flutter
-- Laravel
+![UiDesaign](https://img.shields.io/badge/uidesaign-purple?style=for-the-badge)
+![GitHun](https://img.shields.io/badge/github-black?style=for-the-badge)
+![GoogleColab](https://img.shields.io/badge/googlecolab-orange?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge)
 
 ---
 
