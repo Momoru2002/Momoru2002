@@ -2,19 +2,23 @@
 ## Hi there 👋
 ![Snake animation](https://github.com/Momoru2002/Momoru2002/blob/output/github-contribution-grid-snake.svg)
 # 👋 Hi, I'm Momoru2002
-
+![Typing](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Welcome+to+my+GitHub)
 🚀 Web Developer | Future Builder | Data Analis
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
-
----
 
 
-
+--
 ## 🔥 Skills
-- HTML, CSS, JavaScript, Dart, C++, Java, PHP
+- ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+
+
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
+Dart, C++, Java, PHP
 - UI Design
 - Git & GitHub
 - Python
@@ -33,11 +37,7 @@
 ---
 
 ## 📊 Stats
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JS](https://img.shields.io/badge/JavaScript-yellow)
 ![banner](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
-![Typing](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Welcome+to+my+GitHub)
 ---
 
 ## 🌌 Quote
