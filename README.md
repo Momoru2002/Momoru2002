@@ -1,143 +1,147 @@
-<!-- =======================
-        PROFILE README
+<!-- =============================================
+     GitHub Profile — Muhammad Almas Albirra Hamid
      Username: Momoru2002
-======================== -->
+============================================= -->
 
-<h1 align="center">Hey, I'm Muhammad Almas Albirra Hamid 👋</h1>
-<p align="center">
-  🚀 Web Developer • Future Builder • Data Analyst Enthusiast
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Momoru2002&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+# ⚔️ Muhammad Almas Albirra Hamid
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B00FF&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%9A%80;Full+Stack+Builder+%F0%9F%94%A5;Data+Analyst+Enthusiast+%F0%9F%93%8A;Building+things+that+matter+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Momoru2002&color=9b00ff&style=flat-square&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Momoru2002?color=9b00ff&style=flat-square&label=Followers" />
+
+</div>
+
+---
+
+## 🐉 The Dragon Has Landed
+
+<div align="center">
+  <img src="./dragon.svg" alt="Flying Dragon" width="100%"/>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-- ✨ Creating bugs and fixing them again
-- 📚 Currently learning: **Next.js, Backend (NestJS), Cloud (AWS), Data**
-- 🎯 Goals: build useful products & ship consistently
-- 🎲 Fun fact: I enjoy turning ideas into small tools/apps
+
+```ts
+const almas = {
+  name     : "Muhammad Almas Albirra Hamid",
+  alias    : "Momoru",
+  location : "Indonesia 🇮🇩",
+  learning : ["Next.js", "NestJS", "AWS", "Data Analytics"],
+  goals    : "Build useful products & ship consistently",
+  funFact  : "I enjoy turning weird ideas into small tools/apps 🎲",
+  quote    : "Build something crazy every day. 🔥",
+};
+```
 
 ---
 
 ## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,nodejs,nestjs,graphql,go,rust,py,aws&perline=6" />
-</p>
+
+<div align="center">
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-## 🔥 Skills (Badges)
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## ⚡ Featured Projects
 
----
+<div align="center">
 
-## ⚡ Projects
-- ✅ **Todo App**
-- 📊 **Dashboard UI**
-- 🌐 **Portfolio**
-- 🧠 **LifeOS App**
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🧠 **LifeOS App** | Personal productivity OS — manage your life in one place | Next.js, NestJS |
+| 📊 **Dashboard UI** | Analytics dashboard with rich data visualizations | React, Tailwind |
+| 🌐 **Portfolio** | Personal site showcasing projects & skills | Next.js, TypeScript |
+| ✅ **Todo App** | Clean, minimal task management app | React, Node.js |
 
-
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momoru2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Momoru2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=tokyonight&hide_border=true&ring_color=9b00ff&title_color=9b00ff" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momoru2002&layout=compact&theme=tokyonight&hide_border=true&title_color=9b00ff" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Momoru2002&theme=tokyonight&hide_border=true&ring=9b00ff&fire=ff6a00&currStreakLabel=9b00ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Momoru2002&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true" alt="Trophies"/>
+</div>
 
 ---
 
-## 🌌 Quote
-> "Build something crazy every day."
-
----
-
-## 🔗 Connect with me
-<p align="center">
-  <!-- Ganti link di bawah ini dengan punyamu -->
-  <a href="[https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/muhammad-almas-albirra-hamid-3812202b8?)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="[https://twitter.com/USERNAME](https://x.com/Mr_Momoru?t=K-hIffAsm_z0X1h1N9Ig0A&s=09)" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:seriesmomoru@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="[https://discord.com/USERNAME](https://discordapp.com/monarch7894/1116770366824644688)" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>      
-</p>
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
+## 🌌 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-###
+> ⚠️ **Note:** Snake animation requires a GitHub Actions workflow — see setup below.
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-almas-albirra-hamid-3812202b8)
+[![Twitter / X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mr_Momoru)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seriesmomoru@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/monarch7894)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build something crazy every day."* 🐉
+
+</div>
