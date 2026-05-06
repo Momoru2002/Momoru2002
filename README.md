@@ -82,9 +82,12 @@
   <a href="[https://twitter.com/USERNAME](https://x.com/Mr_Momoru?t=K-hIffAsm_z0X1h1N9Ig0A&s=09)" target="_blank">
     <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:YOURMAIL@gmail.com" target="_blank">
+  <a href="mailto:seriesmomoru@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="[https://discord.com/USERNAME](https://discordapp.com/monarch7894/1116770366824644688)" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>      
 </p>
 <h1 align="center">Hey 👋What's Up?</h1>
 
