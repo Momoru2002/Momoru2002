@@ -26,7 +26,8 @@
 ---
 
 ## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=radical&cache_seconds=1800)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
@@ -36,6 +37,11 @@
 
 ## 🌌 Quote
 "Build something crazy every day."
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=tokyonight)
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momoru2002&layout=compact&theme=tokyonight)
 <!--
 **Momoru2002/Momoru2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
