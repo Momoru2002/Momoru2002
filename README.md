@@ -15,7 +15,7 @@
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-
+![Dart](https://img.shields.io/badge/Dart-Dark?style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
 Dart, C++, Java, PHP
