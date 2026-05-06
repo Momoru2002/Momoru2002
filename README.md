@@ -11,17 +11,16 @@
 - ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
 
 
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-
-
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge) ![Pyhton](https://img.shields.io/badge/python-yellow?style=for-the-badge) 
+![Java](https://img.shields.io/badge/Java-grenn?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-Dark?style=for-the-badge)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-red?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
-Dart, C++, Java, PHP
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge)
 - UI Design
 - Git & GitHub
-- Python
 - Google Colab
 - Flutter
 - Laravel
