@@ -52,7 +52,7 @@
 - 🌐 **Portfolio**
 - 🧠 **LifeOS App**
 
-> Kalau kamu punya link repo/live demo, aku bisa bikinin format “cards” biar lebih keren.
+
 
 ---
 
