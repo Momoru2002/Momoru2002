@@ -27,7 +27,11 @@
 
 ## 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=radical)
-
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JS](https://img.shields.io/badge/JavaScript-yellow)
+![banner](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Typing](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Welcome+to+my+GitHub)
 ---
 
 ## 🌌 Quote
