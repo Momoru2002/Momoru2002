@@ -19,6 +19,13 @@
 
 ---
 
+## 🐉 The Dragon Has Landed
+
+<div align="center">
+  <img src="./dragon.svg" alt="Flying Dragon" width="100%"/>
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -115,8 +122,6 @@ const almas = {
     srcset="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake.svg">
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-> ⚠️ **Note:** Snake animation requires a GitHub Actions workflow — see setup below.
 
 ---
 
