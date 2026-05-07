@@ -7,7 +7,7 @@
 
 # ⚔️ Muhammad Almas Albirra Hamid
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B00FF&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%9A%80;Full+Stack+Builder+%F0%9F%94%A5;Data+Analyst+Enthusiast+%F0%9F%93%8A;Building+things+that+matter+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%9A%80;Full+Stack+Builder+%F0%9F%94%A5;Data+Analyst+Enthusiast+%F0%9F%93%8A;Building+things+that+matter+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
