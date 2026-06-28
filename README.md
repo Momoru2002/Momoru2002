@@ -1,147 +1,263 @@
-<!-- =============================================
-     GitHub Profile — Muhammad Almas Albirra Hamid
-     Username: Momoru2002
-============================================= -->
+# Muhammad Almas Albirra Hamid (Momoru)
 
-<div align="center">
+<p align="center">
 
-# ⚔️ Muhammad Almas Albirra Hamid
+<img src="assets/banner.png" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%9A%80;Full+Stack+Builder+%F0%9F%94%A5;Data+Analyst+Enthusiast+%F0%9F%93%8A;Building+things+that+matter+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+</p>
 
-<br/>
+<h1 align="center">Muhammad Almas Albirra Hamid</h1>
 
-<img src="https://komarev.com/ghpvc/?username=Momoru2002&color=9b00ff&style=flat-square&label=Profile+Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Momoru2002?color=9b00ff&style=flat-square&label=Followers" />
+<p align="center">
 
-</div>
+<b>Software Engineer • Open Source Developer • Reverse Engineering Enthusiast • Cybersecurity Learner</b>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+useful+software.;Open+Source+Contributor.;Reverse+Engineering+Workspace.;Full+Stack+Developer.;Always+Learning.+Always+Shipping."/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Momoru2002&label=Profile%20Views&color=3B82F6&style=for-the-badge">
+
+<img src="https://img.shields.io/github/followers/Momoru2002?style=for-the-badge&color=3B82F6">
+
+<img src="https://img.shields.io/github/stars/Momoru2002?affiliations=OWNER&style=for-the-badge&color=3B82F6">
+
+</p>
 
 ---
 
-## 🐉 The Dragon Has Landed
-
-<div align="center">
-  <img src="./dragon.svg" alt="Flying Dragon" width="100%"/>
-</div>
-
----
-
-## 👨‍💻 About Me
+# About Me
 
 ```ts
-const almas = {
-  name     : "Muhammad Almas Albirra Hamid",
-  alias    : "Momoru",
-  location : "Indonesia 🇮🇩",
-  learning : ["Next.js", "NestJS", "AWS", "Data Analytics"],
-  goals    : "Build useful products & ship consistently",
-  funFact  : "I enjoy turning weird ideas into small tools/apps 🎲",
-  quote    : "Build something crazy every day. 🔥",
-};
+const momoru = {
+    name: "Muhammad Almas Albirra Hamid",
+    alias: "Momoru",
+
+    location: "Indonesia",
+
+    role: "Software Engineer",
+
+    interests: [
+        "Reverse Engineering",
+        "Cybersecurity",
+        "Open Source",
+        "Web Development",
+        "Developer Tools",
+        "Automation"
+    ],
+
+    currentlyBuilding: [
+        "Obfuscope",
+        "OpenReframe",
+        "LifeOS",
+        "Security Utilities"
+    ],
+
+    motto: "Keep Learning. Keep Building. Keep Shipping."
+}
 ```
 
 ---
 
-## 🧰 Tech Stack
+# Current Focus
 
-<div align="center">
-
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+* Building **Obfuscope V2**
+* Developing modern open-source developer tools
+* Learning Binary Analysis & Malware Analysis
+* Improving Reverse Engineering workflows
+* Exploring Rust & Go
+* Creating useful software for developers
 
 ---
 
-## ⚡ Featured Projects
+# Featured Projects
 
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🧠 **LifeOS App** | Personal productivity OS — manage your life in one place | Next.js, NestJS |
-| 📊 **Dashboard UI** | Analytics dashboard with rich data visualizations | React, Tailwind |
-| 🌐 **Portfolio** | Personal site showcasing projects & skills | Next.js, TypeScript |
-| ✅ **Todo App** | Clean, minimal task management app | React, Node.js |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=tokyonight&hide_border=true&ring_color=9b00ff&title_color=9b00ff" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momoru2002&layout=compact&theme=tokyonight&hide_border=true&title_color=9b00ff" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Momoru2002&theme=tokyonight&hide_border=true&ring=9b00ff&fire=ff6a00&currStreakLabel=9b00ff" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Momoru2002&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true" alt="Trophies"/>
-</div>
+| Project                    | Description                                                                                                          |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 🔍 **Obfuscope**           | Modern reverse engineering workspace for payload analysis, binary inspection, recursive decoding, and deobfuscation. |
+| 🧩 **OpenReframe**         | Open-source framework focused on developer productivity and reusable application architecture.                       |
+| 🧠 **LifeOS**              | Personal productivity platform to organize tasks, notes, goals, and daily workflows.                                 |
+| 📊 **Analytics Dashboard** | Modern dashboard interface with interactive visualizations and responsive design.                                    |
+| 🌐 **Portfolio Website**   | Personal website showcasing projects, experiments, and technical articles.                                           |
+| 🔐 **Security Toolkit**    | Collection of security-focused utilities for analysis, automation, and learning.                                     |
+| 🤖 **Automation Tools**    | Developer utilities to automate repetitive tasks and workflows.                                                      |
+| 📚 **Learning Projects**   | Experimental repositories exploring new technologies and programming languages.                                      |
 
 ---
 
-## 🌌 Contribution Activity
+# Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,php,java,cpp"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+
+</p>
+
+### DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
+
+</p>
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Momoru2002&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momoru2002&layout=compact&theme=tokyonight&hide_border=true">
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Momoru2002&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Momoru2002&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake.svg"/>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/Momoru2002/Momoru2002/output/github-contribution-grid-snake.svg"/>
+
 </picture>
 
-
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-almas-albirra-hamid-3812202b8)
-[![Twitter / X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mr_Momoru)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seriesmomoru@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/monarch7894)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# Current Goals
 
-*"Build something crazy every day."* 🐉
+* Build high-quality open-source software
+* Reach 100+ GitHub Stars across projects
+* Learn advanced reverse engineering
+* Publish technical write-ups
+* Contribute to the open-source community
+* Create developer tools that solve real problems
 
-</div>
+---
+
+# Support My Work
+
+If my open-source projects help you, consider supporting future development.
+
+<p align="center">
+
+<a href="https://saweria.co/Momoru19">
+
+<img src="https://img.shields.io/badge/Support%20via-Saweria-orange?style=for-the-badge">
+
+</a>
+
+</p>
+
+Every contribution helps improve existing projects and create new open-source tools.
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="mailto:seriesmomoru@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail">
+
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-almas-albirra-hamid-3812202b8">
+
+<img src="https://skillicons.dev/icons?i=linkedin">
+
+</a>
+
+<a href="https://x.com/Mr_Momoru">
+
+<img src="https://skillicons.dev/icons?i=twitter">
+
+</a>
+
+<a href="https://discord.com/users/monarch7894">
+
+<img src="https://skillicons.dev/icons?i=discord">
+
+</a>
+
+</p>
+
+---
+
+# Quote
+
+> **"Great software isn't built overnight. It's built one commit at a time."**
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile.
+
+**Keep Learning • Keep Building • Keep Shipping**
+
+</p>
