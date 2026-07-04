@@ -196,7 +196,7 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
       </td>
       <td align="center" width="20%">
         <img src="assets/certificates/sertifikat-lainnya.jpg" width="150"/><br/>
-        <sub><b>Sertifikat Lainnya</b><br/><i>(cek judul asli)</i></sub>
+        <sub><b>Sertifikat Lainnya</b><br/><i>Entrepreneurship Award</i></sub>
       </td>
     </tr>
   </table>
