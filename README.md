@@ -133,11 +133,74 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 ## Certifications
 
-- Claude AI — LinkedIn Learning
-- Machine Learning Bootcamp — DQLab
-- Introduction to Data Science — DQLab
-- Python, SQL & R for Data Science
-- Artificial Intelligence Fundamentals
+<!--
+  MAINTENANCE NOTE — cara update galeri sertifikat ini:
+  1. Rename file screenshot sertifikat kamu sesuai daftar di bawah, lalu taruh
+     di folder:  assets/certificates/  (di root repo profile README ini)
+  2. Kalau nama/urutan sertifikat di captionnya kurang pas, tinggal edit teks
+     <sub>...</sub> di bawah tiap <img> — tidak perlu ubah struktur tabel.
+
+  Mapping nama file asli (dari folder D:\sertiv) -> nama file baru di assets/certificates/:
+    certificate-4dett7ncgfrp-1778136653_page-0001.jpg      -> claude-101.jpg
+    certificate-byszqhsh6xhb-1780673263_page-0001.jpg      -> intro-claude-cowork.jpg
+    certificate-DQLABAI001CCLGIP_page-0001.jpg             -> dqlab-python-with-ai.jpg
+    certificate-DQLABAI002TTVRRR with Ai_page-0001.jpg     -> dqlab-sql-with-ai.jpg
+    certificate-DQLABAI003RRCEWU_page-0001.jpg             -> dqlab-r-with-ai.jpg
+    certificate-DQLABBGINREBFGKUR_page-0001.jpg            -> dqlab-intro-data-science-python.jpg
+    certificate-DQLABINTP1TURNWS_page-0001.jpg             -> dqlab-intro-data-science-r.jpg
+    certificate-DQLABMB4EXCNAEBOexcel_page-0001.jpg        -> dqlab-data-analyst-excel.jpg
+    Minibootcamp4 data analisis sql dqlb_page-0001.jpg     -> dqlab-data-analyst-sql-python.jpg
+    Muhammad Almas Albirra Hamid_page-0001.jpg             -> sertifikat-lainnya.jpg  (cek ulang judul aslinya)
+-->
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="assets/certificates/claude-101.jpg" width="150"/><br/>
+        <sub><b>Claude 101</b><br/>Anthropic</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/intro-claude-cowork.jpg" width="150"/><br/>
+        <sub><b>Introduction to Claude Cowork</b><br/>Anthropic</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/dqlab-python-with-ai.jpg" width="150"/><br/>
+        <sub><b>Guide to Learn Python with AI</b><br/>DQLab</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/dqlab-sql-with-ai.jpg" width="150"/><br/>
+        <sub><b>Guide to Learn SQL with AI</b><br/>DQLab</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/dqlab-r-with-ai.jpg" width="150"/><br/>
+        <sub><b>Guide to Learn R with AI</b><br/>DQLab</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img src="assets/certificates/dqlab-intro-data-science-python.jpg" width="150"/><br/>
+        <sub><b>Intro to Data Science with Python</b><br/>DQLab</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/dqlab-intro-data-science-r.jpg" width="150"/><br/>
+        <sub><b>Intro to Data Science with R</b><br/>DQLab</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/dqlab-data-analyst-excel.jpg" width="150"/><br/>
+        <sub><b>Data Analyst with Excel</b><br/>DQLab</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/dqlab-data-analyst-sql-python.jpg" width="150"/><br/>
+        <sub><b>Data Analyst with SQL & Python</b><br/>DQLab</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/sertifikat-lainnya.jpg" width="150"/><br/>
+        <sub><b>Sertifikat Lainnya</b><br/><i>(cek judul asli)</i></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <br>
 
