@@ -28,6 +28,8 @@
 
 I build systems at the intersection of **Artificial Intelligence, Computer Vision, and Software Engineering** — from training and deploying models to shipping the full stack products that put them in front of users. My work spans object detection and image classification, time-series forecasting, and IoT-connected applications, backed by a Full Stack background in Laravel and Next.js.
 
+I also build tooling for **ethical hacking and OSINT (Open Source Intelligence)** — reconnaissance, footprinting, and information-gathering utilities used for authorized security research and CTF practice.
+
 I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, currently focused on applied AI research and open-source tooling that bridges the gap between machine learning models and production-ready software.
 
 <br>
@@ -39,6 +41,7 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 🌦️  Weather Risk Prediction using NASA POWER / NOAA data with Prophet + SVM
 🩺  Medical Image Classification with TensorFlow, Keras & ResNet50
 🌐  ProtoKarya — Full Stack + IoT product built on Laravel & Next.js
+🔐  Developing ethical hacking & OSINT tools for authorized security research
 📖  Deepening research in Transfer Learning & Time-Series Forecasting
 ```
 
@@ -61,6 +64,12 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 - Forecasting with Prophet
 - Support Vector Machine (SVM)
 - Exploratory analysis with Python
+
+**Cybersecurity & OSINT**
+- Ethical hacking tooling for authorized/CTF use
+- OSINT reconnaissance & footprinting
+- Scripting recon/enumeration workflows in Python
+- Basic network & web-app security fundamentals
 
 </td>
 <td valign="top" width="50%">
@@ -105,6 +114,12 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 `ESP32` `Arduino` `LoRa` `MQTT`
 
+**Cybersecurity & OSINT**
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,kali"/>
+
+`OSINT` `Recon` `Python Scripting` `Linux` `Bash`
+
 **Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma"/>
@@ -119,6 +134,7 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 | 🌦️ **Weather Risk Prediction** | Forecasting weather-related risk using NASA POWER & NOAA datasets | Prophet · SVM · Python |
 | 🩺 **Medical Image Classification** | Classifying medical imagery with transfer learning | TensorFlow · Keras · ResNet50 |
 | 🌐 **ProtoKarya** | IoT-integrated full stack product for real-world innovation | Laravel · Next.js · ESP32 |
+| 🔐 **Security & OSINT Toolkit** | Collection of ethical hacking & OSINT recon tools for authorized research | Python · Bash · Linux |
 
 <br>
 
@@ -151,6 +167,8 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
     certificate-DQLABMB4EXCNAEBOexcel_page-0001.jpg        -> dqlab-data-analyst-excel.jpg
     Minibootcamp4 data analisis sql dqlb_page-0001.jpg     -> dqlab-data-analyst-sql-python.jpg
     Muhammad Almas Albirra Hamid_page-0001.jpg             -> sertifikat-lainnya.jpg  (cek ulang judul aslinya)
+    [FILE SERTIFIKAT PROTOKARYA]                           -> protokarya.jpg
+    [FILE SERTIFIKAT JUARA 2 LTMI]                         -> juara-2-ltmi.jpg
 -->
 
 <p align="center">
@@ -199,6 +217,16 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
         <sub><b>Sertifikat Lainnya</b><br/><i>Entrepreneurship Award</i></sub>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img src="assets/certificates/protokarya.jpg" width="150"/><br/>
+        <sub><b>ProtoKarya</b><br/>Liga Talenta Mahasiswa Indonesia — LLDIKTI XVII</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/juara-2-ltmi.jpg" width="150"/><br/>
+        <sub><b>Juara 2 — Business Poster & Pitching</b><br/>Liga Talenta Mahasiswa Indonesia — LLDIKTI XVII</sub>
+      </td>
+    </tr>
   </table>
 </p>
 
@@ -235,6 +263,7 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 - Deploy production-grade computer vision models beyond prototypes
 - Contribute to open-source AI/ML tooling
 - Expand ProtoKarya into a full IoT product line
+- Build and maintain a library of ethical hacking & OSINT tools
 - Publish technical write-ups on applied AI research
 
 <br>
