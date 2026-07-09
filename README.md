@@ -38,8 +38,8 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 ```text
 🔭  Building OpenReframe — an open-source AI platform powered by YOLO
-🌦️  Weather Risk Prediction using NASA POWER / NOAA data with Prophet + SVM
-🩺  Medical Image Classification with TensorFlow, Keras & ResNet50
+✅  Shipped Weather Risk Prediction — Sumatera (NASA POWER + NOAA, Prophet + SVM)
+🩺  Medical Image Classification on retinal OCT scans
 🌐  ProtoKarya — Full Stack + IoT product built on Laravel & Next.js
 🔐  Developing ethical hacking & OSINT tools for authorized security research
 📖  Deepening research in Transfer Learning & Time-Series Forecasting
@@ -136,7 +136,7 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 |---|---|---|
 | 🧠 **[OpenReframe](https://github.com/Momoru2002/OpenReframe)** | Open-source tool for web-based video & image processing/analysis | Python |
 | 🩺 **[retinal-oct-classification](https://github.com/Momoru2002/retinal-oct-classification)** | Medical image classification on retinal OCT scans with deep learning | Jupyter Notebook · TensorFlow/Keras |
-| 🌦️ **Weather Risk Prediction** | Forecasting weather risk for Sumatera using NASA POWER & NOAA GHCN data, Prophet forecasting + SVM risk classification | Prophet · Scikit-learn (SVM) · Pandas · Python |
+| 🌦️ **[Weather Risk Prediction — Sumatera](https://github.com/Momoru2002/Weather-Risk-Prediction-Sumatera)** | Forecasting weather risk for Sumatera using NASA POWER & NOAA GHCN data, Prophet forecasting + SVM risk classification (~96% accuracy) | Prophet · Scikit-learn (SVM) · Pandas · Python |
 | 🔎 **[Obfuscope](https://github.com/Momoru2002/Obfuscope) / [ObfuscopeV2](https://github.com/Momoru2002/ObfuscopeV2)** | Universal deobfuscation & binary analysis toolkit — decoding, inspecting, and reversing encoded/obfuscated data with automatic detection | TypeScript |
 | 🕵️ **[Momoru-Hunter-V4](https://github.com/Momoru2002/Momoru-Hunter-V4)** | Automated anti-buzzer intelligence system (OSINT-based detection) | Python |
 | 🛡️ **[security-toolkit-vps](https://github.com/Momoru2002/security-toolkit-vps)** | Security toolkit for VPS/server hardening & monitoring | Python |
