@@ -26,7 +26,9 @@
 
 ## About
 
-I build systems at the intersection of **Artificial Intelligence, Computer Vision, and Software Engineering** — from training and deploying models to shipping the full stack products that put them in front of users. My work spans object detection and image classification, time-series forecasting, and IoT-connected applications, backed by a Full Stack background in Laravel and Next.js.
+I build systems at the intersection of **Artificial Intelligence, Computer Vision, and Software Engineering** — from training and deploying models to shipping the full stack products that put them in front of users. My work spans object detection and image classification, time-series forecasting, and IoT-connected applications, backed by a Full Stack background in Laravel, Next.js, and FastAPI.
+
+I also build tooling for **ethical hacking and OSINT (Open Source Intelligence)** — reconnaissance, footprinting, and information-gathering utilities used for authorized security research and CTF practice.
 
 I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, currently focused on applied AI research and open-source tooling that bridges the gap between machine learning models and production-ready software.
 
@@ -35,10 +37,12 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 ## Current Focus
 
 ```text
-🔭  Building OpenReframe — an open-source AI platform powered by YOLO
-🌦️  Weather Risk Prediction using NASA POWER / NOAA data with Prophet + SVM
-🩺  Medical Image Classification with TensorFlow, Keras & ResNet50
-🌐  ProtoKarya — Full Stack + IoT product built on Laravel & Next.js
+🔭  Building OpenReframe — an open-source AI-powered media reframing platform
+🌴  Building AgroVision AI — CV/Deep Learning platform for oil palm plantation monitoring
+✅  Shipped Weather Risk Prediction — Sumatera (NASA POWER + NOAA, Prophet + SVM)
+🌐  ProtoKarya Hub — full-stack platform for electronics/PCB prototyping services
+🏢  Creativ Potlot — official company website (Next.js + Prisma)
+🔐  Developing ethical hacking & OSINT tools for authorized security research
 📖  Deepening research in Transfer Learning & Time-Series Forecasting
 ```
 
@@ -52,9 +56,10 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 **Artificial Intelligence & Computer Vision**
 - Machine Learning & Deep Learning fundamentals
-- Computer Vision with OpenCV, YOLO
+- Computer Vision with OpenCV, YOLO (YOLO11)
 - CNNs, Transfer Learning, ResNet50
 - Model training with TensorFlow & Keras
+- MLOps: experiment tracking & model registry (MLflow)
 
 **Data Science**
 - Data preprocessing & feature engineering
@@ -62,13 +67,21 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 - Support Vector Machine (SVM)
 - Exploratory analysis with Python
 
+**Cybersecurity & OSINT**
+- Reverse engineering & deobfuscation tooling (Obfuscope)
+- OSINT-based automated intelligence systems (Momoru-Hunter)
+- VPS/server security & hardening toolkits
+- Scripting recon/enumeration workflows in Python
+
 </td>
 <td valign="top" width="50%">
 
 **Full Stack Development**
 - Laravel, PHP, REST API design
-- Next.js for modern web interfaces
-- MySQL database design
+- FastAPI for ML-serving backends
+- Next.js (App Router) for modern web interfaces
+- MySQL, PostgreSQL & Prisma ORM
+- Supabase (Auth + Postgres) for rapid product builds
 - Git-based collaborative workflows
 
 **IoT & Embedded Systems**
@@ -89,21 +102,33 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,scikitlearn"/>
 
-`TensorFlow` `Keras` `YOLO` `OpenCV` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib`
+`TensorFlow` `Keras` `YOLO11` `OpenCV` `Scikit-Learn` `MLflow` `NumPy` `Pandas` `Matplotlib`
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nextjs"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,nextjs,tailwind"/>
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,fastapi,mysql,postgres,prisma,supabase"/>
+
+`Laravel` `FastAPI` `MySQL` `PostgreSQL` `Prisma` `Supabase`
 
 **IoT**
 
 <img src="https://skillicons.dev/icons?i=arduino"/>
 
 `ESP32` `Arduino` `LoRa` `MQTT`
+
+**Cybersecurity & OSINT**
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,kali,typescript"/>
+
+`OSINT` `Recon` `Reverse Engineering` `Deobfuscation` `Python Scripting` `TypeScript` `Linux` `Bash`
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=dart,flutter"/>
 
 **Developer Tools**
 
@@ -115,10 +140,18 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **OpenReframe** | Open-source AI platform for object detection and visual analysis | YOLO · Python · OpenCV |
-| 🌦️ **Weather Risk Prediction** | Forecasting weather-related risk using NASA POWER & NOAA datasets | Prophet · SVM · Python |
-| 🩺 **Medical Image Classification** | Classifying medical imagery with transfer learning | TensorFlow · Keras · ResNet50 |
-| 🌐 **ProtoKarya** | IoT-integrated full stack product for real-world innovation | Laravel · Next.js · ESP32 |
+| 🌴 **[AgroVision AI](https://github.com/Momoru2002/AgroVision-AI)** | Production-grade CV platform for oil palm plantation monitoring — FFB detection, ripeness & disease classification, harvest yield estimation, with an MLOps pipeline | YOLO11 · ResNet50 · FastAPI · Next.js 15 · PostgreSQL · MLflow · Docker |
+| 🧠 **[OpenReframe](https://github.com/Momoru2002/OpenReframe)** | Open-source, production-oriented AI media reframing platform — smart aspect-ratio adaptation for images/video via a FastAPI + worker-queue backend | FastAPI · OpenCV · Redis/RQ · Next.js |
+| 🩺 **[retinal-oct-classification](https://github.com/Momoru2002/retinal-oct-classification)** | Medical image classification on retinal OCT scans with deep learning | Jupyter Notebook · TensorFlow/Keras |
+| 🌦️ **[Weather Risk Prediction — Sumatera](https://github.com/Momoru2002/Weather-Risk-Prediction-Sumatera)** | Forecasting weather risk for Sumatera using NASA POWER & NOAA GHCN data, Prophet forecasting + SVM risk classification (~96% accuracy) | Prophet · Scikit-learn (SVM) · Pandas · Python |
+| 🌐 **[ProtoKarya Hub](https://github.com/Momoru2002/ProtoKarya)** | Full-stack platform for an electronics/PCB prototyping business — PCB price configurator, guest/member ordering, order tracking, and an admin dashboard with analytics | Next.js 15 · Supabase (Postgres + Auth) · Tailwind CSS |
+| 🏢 **[Creativ Potlot](https://github.com/Momoru2002/Creativ-Potlot)** | Official company website with bilingual (ID/EN) content, product & portfolio catalogs, RFQ/contact flow, and an admin dashboard | Next.js 15 · TypeScript · Prisma · PostgreSQL · next-intl |
+| 🔎 **[Obfuscope](https://github.com/Momoru2002/Obfuscope) / [ObfuscopeV2](https://github.com/Momoru2002/ObfuscopeV2)** | Universal deobfuscation & binary analysis toolkit — decoding, inspecting, and reversing encoded/obfuscated data with automatic detection | TypeScript |
+| 🕵️ **[Momoru-Hunter-V4](https://github.com/Momoru2002/Momoru-Hunter-V4)** | Automated anti-buzzer intelligence system (OSINT-based detection) | Python |
+| 🛡️ **[security-toolkit-vps](https://github.com/Momoru2002/security-toolkit-vps)** | Security toolkit for VPS/server hardening & monitoring | Python |
+| 📱 **[SITUMA](https://github.com/Momoru2002/SITUMA)** | Mobile app project *(deskripsi menyusul)* | Dart |
+
+> ⚠️ Link repo untuk **AgroVision AI**, **ProtoKarya Hub**, dan **Creativ Potlot** saya tebak mengikuti pola penamaan repo kamu yang lain (`github.com/Momoru2002/<nama>`) — cek dan sesuaikan kalau nama repo aslinya beda.
 
 <br>
 
@@ -151,6 +184,8 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
     certificate-DQLABMB4EXCNAEBOexcel_page-0001.jpg        -> dqlab-data-analyst-excel.jpg
     Minibootcamp4 data analisis sql dqlb_page-0001.jpg     -> dqlab-data-analyst-sql-python.jpg
     Muhammad Almas Albirra Hamid_page-0001.jpg             -> sertifikat-lainnya.jpg  (cek ulang judul aslinya)
+    [FILE SERTIFIKAT PROTOKARYA]                           -> protokarya.jpg
+    [FILE SERTIFIKAT JUARA 2 LTMI]                         -> juara-2-ltmi.jpg
 -->
 
 <p align="center">
@@ -196,7 +231,17 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
       </td>
       <td align="center" width="20%">
         <img src="assets/certificates/sertifikat-lainnya.jpg" width="150"/><br/>
-        <sub><b>Sertifikat Lainnya</b><br/><i>(cek judul asli)</i></sub>
+        <sub><b>Sertifikat Lainnya</b><br/><i>Entrepreneurship Award</i></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img src="assets/certificates/protokarya.jpg" width="150"/><br/>
+        <sub><b>ProtoKarya</b><br/>Liga Talenta Mahasiswa Indonesia — LLDIKTI XVII</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="assets/certificates/juara-2-ltmi.jpg" width="150"/><br/>
+        <sub><b>Juara 2 — Business Poster & Pitching</b><br/>Liga Talenta Mahasiswa Indonesia — LLDIKTI XVII</sub>
       </td>
     </tr>
   </table>
@@ -232,9 +277,11 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 ## Goals
 
 - Publish OpenReframe as a stable, documented open-source release
+- Pilot AgroVision AI with a real oil palm plantation dataset
 - Deploy production-grade computer vision models beyond prototypes
 - Contribute to open-source AI/ML tooling
-- Expand ProtoKarya into a full IoT product line
+- Grow ProtoKarya Hub and Creativ Potlot into fully operational client-facing platforms
+- Build and maintain a library of ethical hacking & OSINT tools
 - Publish technical write-ups on applied AI research
 
 <br>
