@@ -66,10 +66,10 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 - Exploratory analysis with Python
 
 **Cybersecurity & OSINT**
-- Ethical hacking tooling for authorized/CTF use
-- OSINT reconnaissance & footprinting
+- Reverse engineering & deobfuscation tooling (Obfuscope)
+- OSINT-based automated intelligence systems (Momoru-Hunter)
+- VPS/server security & hardening toolkits
 - Scripting recon/enumeration workflows in Python
-- Basic network & web-app security fundamentals
 
 </td>
 <td valign="top" width="50%">
@@ -116,9 +116,13 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 **Cybersecurity & OSINT**
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,kali"/>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,kali,typescript"/>
 
-`OSINT` `Recon` `Python Scripting` `Linux` `Bash`
+`OSINT` `Recon` `Reverse Engineering` `Deobfuscation` `Python Scripting` `TypeScript` `Linux` `Bash`
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=dart,flutter"/>
 
 **Developer Tools**
 
@@ -130,11 +134,14 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **OpenReframe** | Open-source AI platform for object detection and visual analysis | YOLO · Python · OpenCV |
-| 🌦️ **Weather Risk Prediction** | Forecasting weather-related risk using NASA POWER & NOAA datasets | Prophet · SVM · Python |
-| 🩺 **Medical Image Classification** | Classifying medical imagery with transfer learning | TensorFlow · Keras · ResNet50 |
+| 🧠 **[OpenReframe](https://github.com/Momoru2002/OpenReframe)** | Open-source tool for web-based video & image processing/analysis | Python |
+| 🩺 **[retinal-oct-classification](https://github.com/Momoru2002/retinal-oct-classification)** | Medical image classification on retinal OCT scans with deep learning | Jupyter Notebook · TensorFlow/Keras |
+| 🌦️ **Weather Risk Prediction** | Forecasting weather risk for Sumatera using NASA POWER & NOAA GHCN data, Prophet forecasting + SVM risk classification | Prophet · Scikit-learn (SVM) · Pandas · Python |
+| 🔎 **[Obfuscope](https://github.com/Momoru2002/Obfuscope) / [ObfuscopeV2](https://github.com/Momoru2002/ObfuscopeV2)** | Universal deobfuscation & binary analysis toolkit — decoding, inspecting, and reversing encoded/obfuscated data with automatic detection | TypeScript |
+| 🕵️ **[Momoru-Hunter-V4](https://github.com/Momoru2002/Momoru-Hunter-V4)** | Automated anti-buzzer intelligence system (OSINT-based detection) | Python |
+| 🛡️ **[security-toolkit-vps](https://github.com/Momoru2002/security-toolkit-vps)** | Security toolkit for VPS/server hardening & monitoring | Python |
 | 🌐 **ProtoKarya** | IoT-integrated full stack product for real-world innovation | Laravel · Next.js · ESP32 |
-| 🔐 **Security & OSINT Toolkit** | Collection of ethical hacking & OSINT recon tools for authorized research | Python · Bash · Linux |
+| 📱 **[SITUMA](https://github.com/Momoru2002/SITUMA)** | Mobile app project *(deskripsi menyusul)* | Dart |
 
 <br>
 
