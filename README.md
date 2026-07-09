@@ -151,7 +151,6 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 | 🛡️ **[security-toolkit-vps](https://github.com/Momoru2002/security-toolkit-vps)** | Security toolkit for VPS/server hardening & monitoring | Python |
 | 📱 **[SITUMA](https://github.com/Momoru2002/SITUMA)** | Mobile app project *(deskripsi menyusul)* | Dart |
 
-> ⚠️ Link repo untuk **AgroVision AI**, **ProtoKarya Hub**, dan **Creativ Potlot** saya tebak mengikuti pola penamaan repo kamu yang lain (`github.com/Momoru2002/<nama>`) — cek dan sesuaikan kalau nama repo aslinya beda.
 
 <br>
 
