@@ -1,11 +1,12 @@
 <h1 align="center">Muhammad Almas Albirra Hamid</h1>
 
 <p align="center">
-  <b>AI Engineer • Computer Vision • Machine Learning • Full Stack Developer • IoT Engineer</b>
+  <b>AI Engineer • Computer Vision • Efficient AI & Edge Deployment</b><br>
+  <sub>Backed by Software Engineering, Networking, Cybersecurity & AIoT</sub>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+AI+systems+that+solve+real+problems.;Computer+Vision+%2B+Machine+Learning+%2B+IoT.;Full+Stack+Developer+%7C+Open+Source.;Turning+research+into+working+software."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+efficient%2C+real-time+computer+vision+systems.;Model+%E2%86%92+API+%E2%86%92+Server+%E2%86%92+Network+%E2%86%92+Edge.;AI+Engineer+with+Software%2C+Network+%26+Security+foundations.;Turning+research+into+deployable+systems."/>
 </p>
 
 <p align="center">
@@ -26,24 +27,37 @@
 
 ## About
 
-I build systems at the intersection of **Artificial Intelligence, Computer Vision, and Software Engineering** — from training and deploying models to shipping the full stack products that put them in front of users. My work spans object detection and image classification, time-series forecasting, and IoT-connected applications, backed by a Full Stack background in Laravel, Next.js, and FastAPI.
+I build systems at the intersection of **Computer Vision, Efficient AI, and Software Engineering** — from training and optimizing detection models to shipping the APIs, databases, and infrastructure that put them into production. My primary focus is **efficient, real-time object detection**: training, evaluating, and optimizing YOLO-based models (quantization, pruning, benchmarking) toward edge deployment.
 
-I also build tooling for **ethical hacking and OSINT (Open Source Intelligence)** — reconnaissance, footprinting, and information-gathering utilities used for authorized security research and CTF practice.
+That work is backed by a full-stack engineering background (FastAPI, Laravel, Next.js) and a growing foundation in **Linux systems, networking, IoT, and cybersecurity/OSINT tooling** — because a model is only useful once it's running inside a real system: an API, a database, a server, a network, a device.
 
-I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, currently focused on applied AI research and open-source tooling that bridges the gap between machine learning models and production-ready software.
+```
+MODEL → CODE → API → DATABASE → SERVER → NETWORK → SECURITY → EDGE DEVICE
+```
+
+I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, currently deepening applied AI research and open-source tooling that connects model development to the systems AI actually runs on.
 
 <br>
 
 ## Current Focus
 
 ```text
-🔭  Building OpenReframe — an open-source AI-powered media reframing platform
-🌴  Building AgroVision AI — CV/Deep Learning platform for oil palm plantation monitoring
+AI            → Object detection, model evaluation, quantization & pruning experiments (YOLO)
+Engineering   → PyTorch, FastAPI model-serving, Docker, MLflow experiment tracking
+Deployment    → ONNX / TensorRT export, GPU inference, edge deployment workflows
+Systems       → Linux, networking fundamentals, AIoT, server/VPS management
+Security      → Ethical hacking & OSINT tooling, VPS hardening, recon automation
+Research      → Reproducible experiments, benchmarking, ablation-style evaluation
+```
+
+**Shipping / recently shipped**
+```text
+🔭  Building OpenReframe — open-source AI-powered media reframing platform
+🌴  Building AgroVision AI — CV platform for oil palm plantation monitoring
 ✅  Shipped Weather Risk Prediction — Sumatera (NASA POWER + NOAA, Prophet + SVM)
 🌐  ProtoKarya Hub — full-stack platform for electronics/PCB prototyping services
 🏢  Creativ Potlot — official company website (Next.js + Prisma)
 🔐  Developing ethical hacking & OSINT tools for authorized security research
-📖  Deepening research in Transfer Learning & Time-Series Forecasting
 ```
 
 <br>
@@ -54,41 +68,57 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 <tr>
 <td valign="top" width="50%">
 
-**Artificial Intelligence & Computer Vision**
-- Machine Learning & Deep Learning fundamentals
-- Computer Vision with OpenCV, YOLO (YOLO11)
-- CNNs, Transfer Learning, ResNet50
-- Model training with TensorFlow & Keras
-- MLOps: experiment tracking & model registry (MLflow)
+**AI / Computer Vision**
+- CNNs, image classification, transfer learning & fine-tuning
+- Object detection with YOLO (Ultralytics) — dataset prep, annotation, training, validation, inference
+- Model evaluation: precision, recall, mAP50, mAP50-95
+- Grad-CAM / explainable AI
+- TensorFlow, Keras · developing PyTorch
+- Architecture comparison (ResNet50; exploring EfficientNetV2S, DenseNet121)
 
-**Data Science**
-- Data preprocessing & feature engineering
-- Forecasting with Prophet
-- Support Vector Machine (SVM)
-- Exploratory analysis with Python
+**Efficient AI & Model Optimization**
+- FP32 / FP16 / INT8 quantization, magnitude pruning
+- Latency, FPS, model size & GFLOPs benchmarking
+- Baseline-vs-optimized model comparison
+- Reproducible experiments (seeds, configs, experiment logging)
+- Developing: knowledge distillation, ONNX, TensorRT, GPU inference
 
-**Cybersecurity & OSINT**
-- Reverse engineering & deobfuscation tooling (Obfuscope)
-- OSINT-based automated intelligence systems (Momoru-Hunter)
-- VPS/server security & hardening toolkits
-- Scripting recon/enumeration workflows in Python
+**AI Deployment & MLOps (developing)**
+- FastAPI for model-serving backends
+- Docker, Linux for packaging & serving
+- MLflow for experiment tracking
+- Building toward: monitoring, logging, end-to-end ML pipelines
+
+**Classical AI & Research Foundations**
+- Search & optimization: BFS/DFS, A*, heuristic search, TSP, graph coloring, genetic algorithms, simulated annealing
+- Experimental method: hypotheses, baselines, ablation-style comparison, reproducibility
 
 </td>
 <td valign="top" width="50%">
 
-**Full Stack Development**
-- Laravel, PHP, REST API design
-- FastAPI for ML-serving backends
-- Next.js (App Router) for modern web interfaces
-- MySQL, PostgreSQL & Prisma ORM
-- Supabase (Auth + Postgres) for rapid product builds
-- Git-based collaborative workflows
+**Software Engineering**
+- Python, PHP, JavaScript/TypeScript, Dart, Bash, SQL
+- OOP, REST API design, backend & frontend architecture, Git/GitHub
+- Backend: FastAPI, Laravel, PostgreSQL, MySQL, Prisma, Supabase
+- Frontend: Next.js, React, Tailwind CSS
+- Mobile: Flutter / Dart
 
-**IoT & Embedded Systems**
-- Arduino & ESP32 development
-- LoRa-based communication
-- Sensor integration for real-world data
+**Networking & Systems**
+- TCP/IP, HTTP/HTTPS, REST & MQTT-based communication
+- Linux networking, VPS provisioning & remote server management
+- Developing: DNS, routing fundamentals, structured network troubleshooting, network security fundamentals
+
+**Cybersecurity & OSINT**
+- Reverse engineering & deobfuscation tooling (Obfuscope, ObfuscopeV2)
+- OSINT automation & reconnaissance (Momoru-Hunter-V4)
+- VPS/server hardening & security tooling (security-toolkit-vps)
+- Python/Bash security scripting on Linux
+- CTF-oriented, authorized security research
+
+**AIoT / Edge Computing**
+- Arduino, ESP32, LoRa, sensor integration
 - Hardware ↔ software product design
+- Developing: Raspberry Pi, NVIDIA Jetson, MQTT telemetry pipelines, edge inference, hardware-constrained optimization
 
 </td>
 </tr>
@@ -96,41 +126,81 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 <br>
 
+### Technical Maturity
+
+```text
+CORE
+Computer Vision · Python · Object Detection (YOLO)
+TensorFlow/Keras · Software Engineering · Git/GitHub
+
+APPLIED
+Transfer Learning · Fine-tuning · Grad-CAM · Model Evaluation
+FastAPI · Docker · REST API · Laravel · Next.js · Linux
+IoT Integration (Arduino/ESP32) · OSINT & Security Tooling
+
+DEVELOPING
+PyTorch · ONNX · TensorRT · Quantization · Pruning
+Knowledge Distillation · MLOps · Edge AI · GPU Inference
+Networking Fundamentals · AIoT (Jetson/Raspberry Pi/MQTT)
+```
+
+<br>
+
+## Research Interests
+
+Efficient object detection · model compression (quantization, pruning, distillation) · real-time computer vision · edge AI · explainable AI · AIoT · reproducible ML experiments · model benchmarking
+
+*Supporting:* AI systems infrastructure · network-aware application design · cybersecurity automation
+
+<br>
+
 ## Tech Stack
 
-**Artificial Intelligence**
+**AI / ML**
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,scikitlearn"/>
 
-`TensorFlow` `Keras` `YOLO11` `OpenCV` `Scikit-Learn` `MLflow` `NumPy` `Pandas` `Matplotlib`
+`Python` `TensorFlow` `Keras` `PyTorch (developing)` `Ultralytics/YOLO` `OpenCV` `Scikit-learn` `MLflow` `NumPy` `Pandas` `Matplotlib`
 
-**Frontend**
+**AI Optimization / Deployment**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,nextjs,tailwind"/>
+`ONNX (developing)` `TensorRT (developing)` `Docker` `FastAPI` `Linux` `GPU Inference (developing)`
+
+**Programming**
+
+`Python` `PHP` `JavaScript` `TypeScript` `Dart` `Bash` `SQL`
 
 **Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=laravel,php,fastapi,mysql,postgres,prisma,supabase"/>
 
-`Laravel` `FastAPI` `MySQL` `PostgreSQL` `Prisma` `Supabase`
+`FastAPI` `Laravel` `PHP` `PostgreSQL` `MySQL` `Prisma` `Supabase`
 
-**IoT**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=arduino"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind"/>
 
-`ESP32` `Arduino` `LoRa` `MQTT`
+**Networking**
+
+`TCP/IP` `HTTP/HTTPS` `REST` `MQTT` `Linux Networking` `VPS`
 
 **Cybersecurity & OSINT**
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,kali,typescript"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,kali"/>
 
-`OSINT` `Recon` `Reverse Engineering` `Deobfuscation` `Python Scripting` `TypeScript` `Linux` `Bash`
+`OSINT` `Reconnaissance` `Reverse Engineering` `Deobfuscation` `Python Security Scripting` `Server Hardening`
+
+**IoT / Embedded**
+
+<img src="https://skillicons.dev/icons?i=arduino"/>
+
+`ESP32` `Arduino` `LoRa` `MQTT` `Raspberry Pi (developing)` `NVIDIA Jetson (developing)`
 
 **Mobile**
 
 <img src="https://skillicons.dev/icons?i=dart,flutter"/>
 
-**Developer Tools**
+**DevOps / Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma"/>
 
@@ -138,19 +208,35 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 ## Featured Projects
 
+**AI / Computer Vision**
+
 | Project | Description | Stack |
 |---|---|---|
-| 🌴 **[AgroVision AI](https://github.com/Momoru2002/AgroVision-AI)** | Production-grade CV platform for oil palm plantation monitoring — FFB detection, ripeness & disease classification, harvest yield estimation, with an MLOps pipeline | YOLO11 · ResNet50 · FastAPI · Next.js 15 · PostgreSQL · MLflow · Docker |
-| 🧠 **[OpenReframe](https://github.com/Momoru2002/OpenReframe)** | Open-source, production-oriented AI media reframing platform — smart aspect-ratio adaptation for images/video via a FastAPI + worker-queue backend | FastAPI · OpenCV · Redis/RQ · Next.js |
+| 🌴 **[AgroVision AI](https://github.com/Momoru2002/AgroVision-AI)** | CV platform for oil palm plantation monitoring — FFB detection, ripeness & disease classification, harvest yield estimation, with an MLOps-oriented pipeline | YOLO · ResNet50 · FastAPI · Next.js 15 · PostgreSQL · MLflow · Docker |
+| 🧠 **[OpenReframe](https://github.com/Momoru2002/OpenReframe)** | Open-source AI media reframing platform — smart aspect-ratio adaptation for images/video via a FastAPI + worker-queue backend | FastAPI · OpenCV · Redis/RQ · Next.js |
 | 🩺 **[retinal-oct-classification](https://github.com/Momoru2002/retinal-oct-classification)** | Medical image classification on retinal OCT scans with deep learning | Jupyter Notebook · TensorFlow/Keras |
-| 🌦️ **[Weather Risk Prediction — Sumatera](https://github.com/Momoru2002/Weather-Risk-Prediction-Sumatera)** | Forecasting weather risk for Sumatera using NASA POWER & NOAA GHCN data, Prophet forecasting + SVM risk classification (~96% accuracy) | Prophet · Scikit-learn (SVM) · Pandas · Python |
-| 🌐 **[ProtoKarya Hub](https://github.com/Momoru2002/ProtoKarya)** | Full-stack platform for an electronics/PCB prototyping business — PCB price configurator, guest/member ordering, order tracking, and an admin dashboard with analytics | Next.js 15 · Supabase (Postgres + Auth) · Tailwind CSS |
-| 🏢 **[Creativ Potlot](https://github.com/Momoru2002/Creativ-Potlot)** | Official company website with bilingual (ID/EN) content, product & portfolio catalogs, RFQ/contact flow, and an admin dashboard | Next.js 15 · TypeScript · Prisma · PostgreSQL · next-intl |
-| 🔎 **[Obfuscope](https://github.com/Momoru2002/Obfuscope) / [ObfuscopeV2](https://github.com/Momoru2002/ObfuscopeV2)** | Universal deobfuscation & binary analysis toolkit — decoding, inspecting, and reversing encoded/obfuscated data with automatic detection | TypeScript |
-| 🕵️ **[Momoru-Hunter-V4](https://github.com/Momoru2002/Momoru-Hunter-V4)** | Automated anti-buzzer intelligence system (OSINT-based detection) | Python |
-| 🛡️ **[security-toolkit-vps](https://github.com/Momoru2002/security-toolkit-vps)** | Security toolkit for VPS/server hardening & monitoring | Python |
-| 📱 **[SITUMA](https://github.com/Momoru2002/SITUMA)** | Mobile app project *(deskripsi menyusul)* | Dart |
+| 🌦️ **[Weather Risk Prediction — Sumatera](https://github.com/Momoru2002/Weather-Risk-Prediction-Sumatera)** | Weather risk forecasting for Sumatera using NASA POWER & NOAA GHCN data — Prophet forecasting + SVM risk classification (~96% accuracy) | Prophet · Scikit-learn (SVM) · Pandas · Python |
 
+**Software Engineering**
+
+| Project | Description | Stack |
+|---|---|---|
+| 🌐 **[ProtoKarya Hub](https://github.com/Momoru2002/ProtoKarya)** | Full-stack platform for an electronics/PCB prototyping business — PCB price configurator, guest/member ordering, order tracking, admin dashboard with analytics | Next.js 15 · Supabase (Postgres + Auth) · Tailwind CSS |
+| 🏢 **[Creativ Potlot](https://github.com/Momoru2002/Creativ-Potlot)** | Official company website with bilingual (ID/EN) content, product & portfolio catalogs, RFQ/contact flow, admin dashboard | Next.js 15 · TypeScript · Prisma · PostgreSQL · next-intl |
+
+**Cybersecurity / OSINT**
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔎 **[Obfuscope](https://github.com/Momoru2002/Obfuscope) / [ObfuscopeV2](https://github.com/Momoru2002/ObfuscopeV2)** | Universal deobfuscation & binary analysis toolkit — decoding, inspecting, and reversing encoded/obfuscated data with automatic detection | TypeScript |
+| 🕵️ **[Momoru-Hunter-V4](https://github.com/Momoru2002/Momoru-Hunter-V4)** | Automated OSINT-based intelligence/detection system | Python |
+| 🛡️ **[security-toolkit-vps](https://github.com/Momoru2002/security-toolkit-vps)** | Security toolkit for VPS/server hardening & monitoring | Python |
+
+**Other**
+
+| Project | Description | Stack |
+|---|---|---|
+| 📱 **[SITUMA](https://github.com/Momoru2002/SITUMA)** | Mobile app project *(description pending)* | Dart |
 
 <br>
 
@@ -275,13 +361,14 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 
 ## Goals
 
+- Build efficient, real-time computer vision systems and deploy them beyond prototypes
+- Take model optimization (quantization, pruning, distillation) from experimentation to edge deployment
+- Develop end-to-end, reproducible ML pipelines (training → serving → monitoring)
 - Publish OpenReframe as a stable, documented open-source release
 - Pilot AgroVision AI with a real oil palm plantation dataset
-- Deploy production-grade computer vision models beyond prototypes
-- Contribute to open-source AI/ML tooling
-- Grow ProtoKarya Hub and Creativ Potlot into fully operational client-facing platforms
-- Build and maintain a library of ethical hacking & OSINT tools
-- Publish technical write-ups on applied AI research
+- Strengthen networking and systems engineering fundamentals
+- Grow a library of ethical hacking & OSINT tooling for authorized research
+- Publish technical write-ups on applied, reproducible AI research
 
 <br>
 
@@ -296,7 +383,7 @@ I'm an Informatics Engineering student at **Universitas Muhammadiyah Riau**, cur
 <br>
 
 <p align="center">
-<i>"Good models don't ship themselves — good engineering does."</i>
+<i>"I don't just build models — I build the systems they run on."</i>
 </p>
 
 <p align="center">
