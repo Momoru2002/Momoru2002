@@ -52,6 +52,7 @@ Research      → Reproducible experiments, benchmarking, ablation-style evaluat
 
 **Shipping / recently shipped**
 ```text
+🤖  Shipped MyAIChat — 100% local AI chatbot: streaming SSE, 119 models via 9Router, RAG & memory
 🔭  Building OpenReframe — open-source AI-powered media reframing platform
 🌴  Building AgroVision AI — CV platform for oil palm plantation monitoring
 ✅  Shipped Weather Risk Prediction — Sumatera (NASA POWER + NOAA, Prophet + SVM)
@@ -89,6 +90,11 @@ Research      → Reproducible experiments, benchmarking, ablation-style evaluat
 - MLflow for experiment tracking
 - Building toward: monitoring, logging, end-to-end ML pipelines
 
+**Applied AI Systems**
+- LLM-backed chat applications: streaming (SSE), multi-model gateways, RAG pipelines, long-term memory
+- Vector embeddings & cosine-similarity retrieval, document chunking, citation surfacing
+- Local-first / self-hosted AI architecture (no cloud lock-in)
+
 **Classical AI & Research Foundations**
 - Search & optimization: BFS/DFS, A*, heuristic search, TSP, graph coloring, genetic algorithms, simulated annealing
 - Experimental method: hypotheses, baselines, ablation-style comparison, reproducibility
@@ -99,7 +105,7 @@ Research      → Reproducible experiments, benchmarking, ablation-style evaluat
 **Software Engineering**
 - Python, PHP, JavaScript/TypeScript, Dart, Bash, SQL
 - OOP, REST API design, backend & frontend architecture, Git/GitHub
-- Backend: FastAPI, Laravel, PostgreSQL, MySQL, Prisma, Supabase
+- Backend: FastAPI, Laravel, PostgreSQL, MySQL, SQLite, Prisma, Supabase, SQLAlchemy
 - Frontend: Next.js, React, Tailwind CSS
 - Mobile: Flutter / Dart
 
@@ -136,7 +142,7 @@ TensorFlow/Keras · Software Engineering · Git/GitHub
 APPLIED
 Transfer Learning · Fine-tuning · Grad-CAM · Model Evaluation
 FastAPI · Docker · REST API · Laravel · Next.js · Linux
-IoT Integration (Arduino/ESP32) · OSINT & Security Tooling
+LLM Chat Apps (SSE, RAG, Memory) · IoT Integration (Arduino/ESP32) · OSINT & Security Tooling
 
 DEVELOPING
 PyTorch · ONNX · TensorRT · Quantization · Pruning
@@ -150,7 +156,7 @@ Networking Fundamentals · AIoT (Jetson/Raspberry Pi/MQTT)
 
 Efficient object detection · model compression (quantization, pruning, distillation) · real-time computer vision · edge AI · explainable AI · AIoT · reproducible ML experiments · model benchmarking
 
-*Supporting:* AI systems infrastructure · network-aware application design · cybersecurity automation
+*Supporting:* AI systems infrastructure · applied LLM/RAG applications · network-aware application design · cybersecurity automation
 
 <br>
 
@@ -166,19 +172,23 @@ Efficient object detection · model compression (quantization, pruning, distilla
 
 `ONNX (developing)` `TensorRT (developing)` `Docker` `FastAPI` `Linux` `GPU Inference (developing)`
 
+**Applied AI / LLM Apps**
+
+`Streaming SSE` `RAG` `Vector Embeddings` `LLM Gateways (OpenAI-compatible)` `Long-term Memory`
+
 **Programming**
 
 `Python` `PHP` `JavaScript` `TypeScript` `Dart` `Bash` `SQL`
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=laravel,php,fastapi,mysql,postgres,prisma,supabase"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,fastapi,mysql,postgres,prisma,supabase,sqlite"/>
 
-`FastAPI` `Laravel` `PHP` `PostgreSQL` `MySQL` `Prisma` `Supabase`
+`FastAPI` `Laravel` `PHP` `PostgreSQL` `MySQL` `SQLite` `SQLAlchemy` `Prisma` `Supabase`
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,react"/>
 
 **Networking**
 
@@ -212,6 +222,7 @@ Efficient object detection · model compression (quantization, pruning, distilla
 
 | Project | Description | Stack |
 |---|---|---|
+| 🤖 **[MyAIChat](https://github.com/Momoru2002/MyAIChat)** | 100% local, ChatGPT-like AI chatbot — real-time SSE streaming, 119 models via a 9Router gateway, document RAG with citations, and long-term memory | FastAPI · SQLAlchemy · Next.js 14 · TypeScript · Tailwind · SQLite |
 | 🌴 **[AgroVision AI](https://github.com/Momoru2002/AgroVision-AI)** | CV platform for oil palm plantation monitoring — FFB detection, ripeness & disease classification, harvest yield estimation, with an MLOps-oriented pipeline | YOLO · ResNet50 · FastAPI · Next.js 15 · PostgreSQL · MLflow · Docker |
 | 🧠 **[OpenReframe](https://github.com/Momoru2002/OpenReframe)** | Open-source AI media reframing platform — smart aspect-ratio adaptation for images/video via a FastAPI + worker-queue backend | FastAPI · OpenCV · Redis/RQ · Next.js |
 | 🩺 **[retinal-oct-classification](https://github.com/Momoru2002/retinal-oct-classification)** | Medical image classification on retinal OCT scans with deep learning | Jupyter Notebook · TensorFlow/Keras |
@@ -366,6 +377,7 @@ Efficient object detection · model compression (quantization, pruning, distilla
 - Develop end-to-end, reproducible ML pipelines (training → serving → monitoring)
 - Publish OpenReframe as a stable, documented open-source release
 - Pilot AgroVision AI with a real oil palm plantation dataset
+- Extend MyAIChat with tool calling, an artifact canvas, and local voice input
 - Strengthen networking and systems engineering fundamentals
 - Grow a library of ethical hacking & OSINT tooling for authorized research
 - Publish technical write-ups on applied, reproducible AI research
