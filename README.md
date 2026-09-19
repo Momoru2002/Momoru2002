@@ -301,8 +301,8 @@ Recent contributions to external open-source projects:
     certificate-DQLABMB4EXCNAEBOexcel_page-0001.jpg        -> dqlab-data-analyst-excel.jpg
     Minibootcamp4 data analisis sql dqlb_page-0001.jpg     -> dqlab-data-analyst-sql-python.jpg
     Muhammad Almas Albirra Hamid_page-0001.jpg             -> sertifikat-lainnya.jpg  (cek ulang judul aslinya)
-    [FILE SERTIFIKAT PROTOKARYA]                           -> protokarya.jpg
-    [FILE SERTIFIKAT JUARA 2 LTMI]                         -> juara-2-ltmi.jpg
+    [FILE SERTIFIKAT PROTOKARYA]                           -> protokarya.jpeg
+    [FILE SERTIFIKAT JUARA 2 LTMI]                         -> juara-2-ltmi.jpeg
 -->
 
 <p align="center">
@@ -353,11 +353,11 @@ Recent contributions to external open-source projects:
     </tr>
     <tr>
       <td align="center" width="20%">
-        <img src="assets/certificates/protokarya.jpg" width="150"/><br/>
+        <img src="assets/certificates/protokarya.jpeg" width="150"/><br/>
         <sub><b>ProtoKarya</b><br/>Liga Talenta Mahasiswa Indonesia — LLDIKTI XVII</sub>
       </td>
       <td align="center" width="20%">
-        <img src="assets/certificates/juara-2-ltmi.jpg" width="150"/><br/>
+        <img src="assets/certificates/juara-2-ltmi.jpeg" width="150"/><br/>
         <sub><b>Juara 2 — Business Poster & Pitching</b><br/>Liga Talenta Mahasiswa Indonesia — LLDIKTI XVII</sub>
       </td>
     </tr>
