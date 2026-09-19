@@ -52,7 +52,7 @@ Research      → Reproducible experiments, benchmarking, ablation-style evaluat
 
 **Shipping / recently shipped**
 ```text
-🤖  Shipped MyAIChat — 100% local AI chatbot: streaming SSE, 119 models via 9Router, RAG & memory
+🤖  Shipped Stingers — 100% local AI chatbot: streaming SSE, 119 models via 9Router, RAG & memory
 🔭  Building OpenReframe — open-source AI-powered media reframing platform
 🌴  Building AgroVision AI — CV platform for oil palm plantation monitoring
 ✅  Shipped Weather Risk Prediction — Sumatera (NASA POWER + NOAA, Prophet + SVM)
@@ -222,11 +222,18 @@ Efficient object detection · model compression (quantization, pruning, distilla
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 **[MyAIChat](https://github.com/Momoru2002/MyAIChat)** | 100% local, ChatGPT-like AI chatbot — real-time SSE streaming, 119 models via a 9Router gateway, document RAG with citations, and long-term memory | FastAPI · SQLAlchemy · Next.js 14 · TypeScript · Tailwind · SQLite |
+| 🐝 **[Stingers](https://github.com/Momoru2002/Stingers)** *(formerly MyAIChat)* | 100% local, ChatGPT-like AI chatbot — real-time SSE streaming, 119 models via a 9Router gateway, document RAG with citations, and long-term memory | FastAPI · SQLAlchemy · Next.js 14 · TypeScript · Tailwind · SQLite |
 | 🌴 **[AgroVision AI](https://github.com/Momoru2002/AgroVision-AI)** | CV platform for oil palm plantation monitoring — FFB detection, ripeness & disease classification, harvest yield estimation, with an MLOps-oriented pipeline | YOLO · ResNet50 · FastAPI · Next.js 15 · PostgreSQL · MLflow · Docker |
 | 🧠 **[OpenReframe](https://github.com/Momoru2002/OpenReframe)** | Open-source AI media reframing platform — smart aspect-ratio adaptation for images/video via a FastAPI + worker-queue backend | FastAPI · OpenCV · Redis/RQ · Next.js |
 | 🩺 **[retinal-oct-classification](https://github.com/Momoru2002/retinal-oct-classification)** | Medical image classification on retinal OCT scans with deep learning | Jupyter Notebook · TensorFlow/Keras |
 | 🌦️ **[Weather Risk Prediction — Sumatera](https://github.com/Momoru2002/Weather-Risk-Prediction-Sumatera)** | Weather risk forecasting for Sumatera using NASA POWER & NOAA GHCN data — Prophet forecasting + SVM risk classification (~96% accuracy) | Prophet · Scikit-learn (SVM) · Pandas · Python |
+
+**Developer Tools & Infrastructure**
+
+| Project | Description | Stack |
+|---|---|---|
+| 🌉 **[Bifrost-gateway](https://github.com/Momoru2002/Bifrost-gateway)** | Local, self-hosted AI routing gateway — one OpenAI-compatible endpoint (plus a native Anthropic `/v1/messages` endpoint for tools like Claude Code) in front of multiple LLM providers/accounts, with rate-limit-aware automatic fallback and encrypted cloud sync via a private GitHub Gist | Node.js · Express · `node:sqlite` |
+| 🗄️ **[Mneme](https://github.com/Momoru2002/Mneme)** | Local-first knowledge vault (fork of Mimir) — plain-Markdown notes with full-text search, templates, role-based access control, and a tamper-evident audit log; opt-in LAN web access | Rust (Tauri) · React 19 · SQLite |
 
 **Software Engineering**
 
@@ -391,7 +398,7 @@ Recent contributions to external open-source projects:
 - Develop end-to-end, reproducible ML pipelines (training → serving → monitoring)
 - Publish OpenReframe as a stable, documented open-source release
 - Pilot AgroVision AI with a real oil palm plantation dataset
-- Extend MyAIChat with tool calling, an artifact canvas, and local voice input
+- Extend Stingers with tool calling, an artifact canvas, and local voice input
 - Strengthen networking and systems engineering fundamentals
 - Grow a library of ethical hacking & OSINT tooling for authorized research
 - Publish technical write-ups on applied, reproducible AI research
