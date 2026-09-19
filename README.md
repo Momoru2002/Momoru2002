@@ -251,6 +251,20 @@ Efficient object detection · model compression (quantization, pruning, distilla
 
 <br>
 
+## Open Source Contributions
+
+Recent contributions to external open-source projects:
+
+| Project | Contribution | Status |
+|---|---|---|
+| 🎓 **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** | [#70189](https://github.com/freeCodeCamp/freeCodeCamp/pull/70189) — corrected a curriculum lesson title/formatting mismatch in the Python conditionals lecture (closed [#70166](https://github.com/freeCodeCamp/freeCodeCamp/issues/70166)) | ✅ Merged |
+| 🕵️ **[soxoj/maigret](https://github.com/soxoj/maigret)** | [#3178](https://github.com/soxoj/maigret/pull/3178) — reused HTTP connectors across checks and added backoff/retry on 429/503 responses | 🔄 Open — in review |
+| 🕵️ **[soxoj/maigret](https://github.com/soxoj/maigret)** | [#3179](https://github.com/soxoj/maigret/pull/3179) — added a scheduled CI workflow to automate the project's existing (previously manual-only) database self-check | 🔄 Open — in review |
+
+<sub>Table kept manually — update the status column as PRs get reviewed/merged, or swap this section for a live badge (e.g. `github-readme-stats`' `pull_request` counter) once contribution volume grows.</sub>
+
+<br>
+
 ## Achievements
 
 | Award | Event | Year |
@@ -381,6 +395,7 @@ Efficient object detection · model compression (quantization, pruning, distilla
 - Strengthen networking and systems engineering fundamentals
 - Grow a library of ethical hacking & OSINT tooling for authorized research
 - Publish technical write-ups on applied, reproducible AI research
+- Continue contributing to established open-source projects (freeCodeCamp, maigret) alongside personal projects
 
 <br>
 
